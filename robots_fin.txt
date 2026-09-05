@@ -1,3 +1,2 @@
 User-agent: *
-Allow: /
-Sitemap: https://ai-finance-machine.vercel.app/sitemap.xml
+Disallow: /
